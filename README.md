@@ -1,2 +1,1 @@
 # Samarthya
-print("Rakshith")
